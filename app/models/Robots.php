@@ -1,6 +1,6 @@
 <?php
 
-namespace Store\Toys;
+namespace Store\Models;
 
 use Phalcon\Mvc\Model;
 use Phalcon\Messages\Message;
